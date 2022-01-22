@@ -23,6 +23,7 @@ A collection of papers and readings
 * [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 * [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [Efficient Estimations of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+* [FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35650.pdf)
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [Gradient Based Learning Applied to Document Recognition, LeCun et al](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 * [Hints for Computer System Design, Butler Lampson](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
@@ -60,7 +61,7 @@ A collection of papers and readings
 
 * Designing Data Intensive Applications, Martin Kleppmann
 * Introduction to Algorithms, Cormen, Leiserson, Rivest, and Stein
-* Linux Kernel Development, Robert Love](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
+* Linux Kernel Development, Robert Love
 * Society of Mind, Marvin Minsky
 * The Algorithm Design Manual, Skiena
 * The Mythical Man Month, Fred Brooks
