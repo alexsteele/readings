@@ -30,6 +30,7 @@ A collection of papers and readings
 * [Hive - A Petabyte Scale Data Warehouse Using Hadoop](http://infolab.stanford.edu/~ragho/hive-icde2010.pdf)
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 * [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+* [Interpreting the Data: Parallel Analysis with Sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
 * [Kafka: a Distributed Messaging System for Log Processing](https://www.semanticscholar.org/paper/Kafka-%3A-a-Distributed-Messaging-System-for-Log-Kreps/ea97f112c165e4da1062c30812a41afca4dab628)
 * [Kafka: a Distributed System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
