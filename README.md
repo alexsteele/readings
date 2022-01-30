@@ -31,6 +31,7 @@ A collection of papers and readings
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 * [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 * [Kafka: a Distributed Messaging System for Log Processing](https://www.semanticscholar.org/paper/Kafka-%3A-a-Distributed-Messaging-System-for-Log-Kreps/ea97f112c165e4da1062c30812a41afca4dab628)
+* [Kafka: a Distributed System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 * [Live Migration of Virtual Machines](https://www.usenix.org/legacy/events/nsdi05/tech/full_papers/clark/clark.pdf)
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
