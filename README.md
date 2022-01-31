@@ -61,6 +61,7 @@ A collection of papers and readings
 * [Virtual Consensus in Delos](https://www.usenix.org/system/files/osdi20-balakrishnan.pdf)
 * [What Every Computer Scientist Should Know about Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 * [What Every Programmer Should Know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
 
 ## books
 
