@@ -7,6 +7,7 @@ A collection of papers and readings
 
 * [A Mathematical Theory of Communication, Claude Shannon](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 * [A Name-Based Mapping Scheme for Rendezvous](http://www.eecs.umich.edu/techreports/cse/96/CSE-TR-316-96.pdf)
+* [A New Solution to Dijkstra's Concurrent Programming Problem](https://lamport.azurewebsites.net/pubs/bakery.pdf), Leslie Lamport
 * [A Note on Distributed Computing](https://scholar.harvard.edu/waldo/publications/note-distributed-computing)
 * [Architectural Styles and the Design of Network-based Software Architectures, Roy Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
