@@ -25,6 +25,7 @@ A collection of papers and readings
 * [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [Efficient Estimations of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 * [FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35650.pdf)
+* [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20(Havelund).pdf) on NASA remote debugging 
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [Gradient Based Learning Applied to Document Recognition, LeCun et al](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 * [Hints for Computer System Design, Butler Lampson](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
