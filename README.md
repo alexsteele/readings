@@ -33,6 +33,7 @@ A collection of papers and readings
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 * [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 * [Interpreting the Data: Parallel Analysis with Sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
+* [It's as simple as one, two, three...](https://calteches.library.caltech.edu/607/2/Feynman.pdf), Richard Feynman
 * [Kafka: a Distributed Messaging System for Log Processing](https://www.semanticscholar.org/paper/Kafka-%3A-a-Distributed-Messaging-System-for-Log-Kreps/ea97f112c165e4da1062c30812a41afca4dab628)
 * [Kafka: a Distributed System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 * [LVars: Lattice Based Data Structures for Deterministic Parallelism](https://users.soe.ucsc.edu/~lkuper/papers/lvars-fhpc13.pdf)
