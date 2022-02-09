@@ -1,7 +1,7 @@
 
-# great-reads
+# reading
 
-A collection of papers and readings
+A collection of papers and books
 
 ## papers
 
