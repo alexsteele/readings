@@ -44,6 +44,7 @@ A collection of papers and books
 * [Mercator: A Scalable, Extensible Web Crawler](https://courses.cs.washington.edu/courses/cse454/15wi/papers/mercator.pdf)
 * [Monarch: Google's Planet-Scale In-Memory Time Series Database](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 * [On Computable Numbers, With an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+* [On Performance Stability in LSM-based Storage Systems](https://www.vldb.org/pvldb/vol13/p449-luo.pdf)
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 * [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 * [Recursive Functions of Symbolic Expressions and Their Computation By Machine, John McCarthy](http://www-formal.stanford.edu/jmc/recursive.html) (i.e. the LISP paper)
