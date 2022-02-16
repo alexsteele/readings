@@ -10,6 +10,7 @@ A collection of papers and books
 * [A New Solution to Dijkstra's Concurrent Programming Problem](https://lamport.azurewebsites.net/pubs/bakery.pdf), Leslie Lamport
 * [A Note on Distributed Computing](https://scholar.harvard.edu/waldo/publications/note-distributed-computing)
 * [Architectural Styles and the Design of Network-based Software Architectures, Roy Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+* [Are you living in a computer simulation?](https://www.simulation-argument.com/simulation.html), Nick Bostrom
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [Berkeley DB](https://www.usenix.org/legacy/event/usenix99/full_papers/olson/olson.pdf)
 * [BigTable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
