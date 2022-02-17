@@ -37,7 +37,6 @@ A collection of papers and books
 * [Interpreting the Data: Parallel Analysis with Sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
 * [It's as simple as one, two, three...](https://calteches.library.caltech.edu/607/2/Feynman.pdf), Richard Feynman
 * [Kafka: a Distributed Messaging System for Log Processing](https://www.semanticscholar.org/paper/Kafka-%3A-a-Distributed-Messaging-System-for-Log-Kreps/ea97f112c165e4da1062c30812a41afca4dab628)
-* [Kafka: a Distributed System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 * [LVars: Lattice Based Data Structures for Deterministic Parallelism](https://users.soe.ucsc.edu/~lkuper/papers/lvars-fhpc13.pdf)
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 * [Live Migration of Virtual Machines](https://www.usenix.org/legacy/events/nsdi05/tech/full_papers/clark/clark.pdf)
@@ -63,6 +62,7 @@ A collection of papers and books
 * [The Linux Scheduler: A Decade of Wasted Cores](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
 * [The Part-Time Parliament, Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+* [The Power of the Context](http://www.vpri.org/pdf/m2004001_power.pdf), Alan Kay
 * [The Slab Allocator, An Object-Caching Kernel Memory Allocator](https://www.usenix.org/legacy/publications/library/proceedings/bos94/bonwick.html)
 * [The Tail at Scale](https://research.google/pubs/pub40801/)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
