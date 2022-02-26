@@ -52,6 +52,7 @@ A collection of papers and books
 * [Recursive Functions of Symbolic Expressions and Their Computation By Machine, John McCarthy](http://www-formal.stanford.edu/jmc/recursive.html) (i.e. the LISP paper)
 * [Reflections on Trusting Trust](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [RocksDB: Evolution of Development Priorities in a Key-Value Store Serving Large Applications](https://dl.acm.org/doi/10.1145/3483840)
+* [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 * [Spanner: Google's Globally Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 * [Tao: Facebook's Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 * [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
