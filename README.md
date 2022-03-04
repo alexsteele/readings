@@ -76,6 +76,7 @@ A collection of papers and books
 * [What Every Computer Scientist Should Know about Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 * [What Every Programmer Should Know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
+* [ZooKeeper's Atomic Broadcast Protocol - Theory and Practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf)
 
 ## blog posts
 
