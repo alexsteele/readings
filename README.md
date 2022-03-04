@@ -77,6 +77,10 @@ A collection of papers and books
 * [What Every Programmer Should Know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
 
+## blog posts
+
+* [The Bug in Paxos Made Simple](https://brooker.co.za/blog/2021/11/16/paxos.html), Marc Brooker
+
 ## books
 
 * Designing Data Intensive Applications, Martin Kleppmann
