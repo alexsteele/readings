@@ -43,6 +43,7 @@ A collection of papers and books
 * [LVars: Lattice Based Data Structures for Deterministic Parallelism](https://users.soe.ucsc.edu/~lkuper/papers/lvars-fhpc13.pdf)
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 * [Live Migration of Virtual Machines](https://www.usenix.org/legacy/events/nsdi05/tech/full_papers/clark/clark.pdf)
+* [Making CRTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf), Martin Kleppmann
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [Mercator: A Scalable, Extensible Web Crawler](https://courses.cs.washington.edu/courses/cse454/15wi/papers/mercator.pdf)
 * [Monarch: Google's Planet-Scale In-Memory Time Series Database](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
