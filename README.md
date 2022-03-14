@@ -1,7 +1,7 @@
 
 # reading
 
-A collection of papers and books
+A collection of papers, blog posts, and books. Topics include AI/ML, systems, and foundational CS papers.
 
 ## papers
 
@@ -28,6 +28,7 @@ A collection of papers and books
 * [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [Efficient Estimations of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 * [Engineering a Sort Function](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.8162&rep=rep1&type=pdf), Bentley & McIlroy at Bell Labs
+* [Experiments on Learning by Back Propagation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.878&rep=rep1&type=pdf), Plaut, Nowlan, Hinton
 * [FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35650.pdf)
 * [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20(Havelund).pdf) on NASA remote debugging 
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
