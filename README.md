@@ -12,6 +12,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Architectural Styles and the Design of Network-based Software Architectures, Roy Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 * [Are you living in a computer simulation?](https://www.simulation-argument.com/simulation.html), Nick Bostrom
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* [Backpropagation Applied to Handwritten Zipcode Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf), LeCun et al.
 * [Berkeley DB](https://www.usenix.org/legacy/event/usenix99/full_papers/olson/olson.pdf)
 * [BigTable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
