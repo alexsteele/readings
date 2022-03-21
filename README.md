@@ -36,6 +36,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Gradient Based Learning Applied to Document Recognition, LeCun et al](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 * [Hints for Computer System Design, Butler Lampson](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 * [Hive - A Petabyte Scale Data Warehouse Using Hadoop](http://infolab.stanford.edu/~ragho/hive-icde2010.pdf)
+* [How do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf), Conway (Conway's Law paper)
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 * [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 * [Indexing the Distance: An Efficient Method to KNN Processing](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.638.6188&rep=rep1&type=pdf)
