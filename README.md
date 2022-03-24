@@ -50,6 +50,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [Mercator: A Scalable, Extensible Web Crawler](https://courses.cs.washington.edu/courses/cse454/15wi/papers/mercator.pdf)
 * [Monarch: Google's Planet-Scale In-Memory Time Series Database](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [Metastable Failures in Distributed Systems](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)
 * [On Computable Numbers, With an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 * [On Performance Stability in LSM-based Storage Systems](https://www.vldb.org/pvldb/vol13/p449-luo.pdf)
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
