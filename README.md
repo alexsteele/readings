@@ -56,6 +56,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 * [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
+* [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf), Peter Naur
 * [RAMP-Tao: Layering Atomic Transactions on Facebook's Online Tao Data Store](http://www.vldb.org/pvldb/vol14/p3014-cheng.pdf)
 * [Recursive Functions of Symbolic Expressions and Their Computation By Machine, John McCarthy](http://www-formal.stanford.edu/jmc/recursive.html) (i.e. the LISP paper)
 * [Reflections on Trusting Trust](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
