@@ -55,6 +55,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [On Performance Stability in LSM-based Storage Systems](https://www.vldb.org/pvldb/vol13/p449-luo.pdf)
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
+* [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 * [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 * [Procella: Unifying serving and analytical data at YouTube](https://research.google/pubs/pub48388/)
 * [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf), Peter Naur
