@@ -79,6 +79,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [The Part-Time Parliament, Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 * [The Power of the Context](http://www.vpri.org/pdf/m2004001_power.pdf), Alan Kay
 * [The Slab Allocator, An Object-Caching Kernel Memory Allocator](https://www.usenix.org/legacy/publications/library/proceedings/bos94/bonwick.html)
+* [The Swirlds Hashgraph Consensus Algorithm](https://www.swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)
 * [The Tail at Scale](https://research.google/pubs/pub40801/)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Top 10 Algorithms in Data Mining](https://www.researchgate.net/publication/29467751_Top_10_algorithms_in_data_mining)
