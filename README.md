@@ -87,6 +87,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [The Tail at Scale](https://research.google/pubs/pub40801/)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Top 10 Algorithms in Data Mining](https://www.researchgate.net/publication/29467751_Top_10_algorithms_in_data_mining)
+* [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913#)
 * [Virtual Consensus in Delos](https://www.usenix.org/system/files/osdi20-balakrishnan.pdf)
 * [What Every Computer Scientist Should Know about Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 * [What Every Programmer Should Know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
