@@ -98,6 +98,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 
 * [The Bug in Paxos Made Simple](https://brooker.co.za/blog/2021/11/16/paxos.html), Marc Brooker
 * [Developers spend most of their time figuring out the system](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), Jay Alammar
 
 ## books
 
