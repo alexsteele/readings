@@ -42,6 +42,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 * [Indexing the Distance: An Efficient Method to KNN Processing](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.638.6188&rep=rep1&type=pdf)
 * [Interpreting the Data: Parallel Analysis with Sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
+* [Is this the simplest (and most surprising) sorting algorithm ever?](https://arxiv.org/pdf/2110.01111.pdf)
 * [It's as simple as one, two, three...](https://calteches.library.caltech.edu/607/2/Feynman.pdf), Richard Feynman
 * [Kafka: a Distributed Messaging System for Log Processing](https://www.semanticscholar.org/paper/Kafka-%3A-a-Distributed-Messaging-System-for-Log-Kreps/ea97f112c165e4da1062c30812a41afca4dab628)
 * [LVars: Lattice Based Data Structures for Deterministic Parallelism](https://users.soe.ucsc.edu/~lkuper/papers/lvars-fhpc13.pdf)
