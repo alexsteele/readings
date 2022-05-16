@@ -41,7 +41,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [How do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf), Conway (Conway's Law paper)
 * [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), DeepMind
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-* [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+* [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) (RAFT)
 * [Indexing the Distance: An Efficient Method to KNN Processing](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.638.6188&rep=rep1&type=pdf)
 * [Interpreting the Data: Parallel Analysis with Sawzall](https://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf)
 * [Is this the simplest (and most surprising) sorting algorithm ever?](https://arxiv.org/pdf/2110.01111.pdf)
