@@ -82,6 +82,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [The Cathedral and the Bazaar, Eric Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html)
 * [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 * [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Oout-of-order Data Processing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
+* [The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf), Mendel Rosenblum and John K. Ousterhout
 * [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [The Hadoop Distributed File System](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
 * [The Linux Scheduler: A Decade of Wasted Cores](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
