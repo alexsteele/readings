@@ -11,6 +11,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [A Note on Distributed Computing](https://scholar.harvard.edu/waldo/publications/note-distributed-computing)
 * [Architectural Styles and the Design of Network-based Software Architectures, Roy Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 * [Are you living in a computer simulation?](https://www.simulation-argument.com/simulation.html), Nick Bostrom
+* [Are You Sure You Want to Use MMAP in Your Database Management System?](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [Backpropagation Applied to Handwritten Zipcode Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf), LeCun et al.
 * [Berkeley DB](https://www.usenix.org/legacy/event/usenix99/full_papers/olson/olson.pdf)
