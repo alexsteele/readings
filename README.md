@@ -67,6 +67,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 * [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
+* [Photon: Fault-tolerant and Scalable Joining of Continuous Data Streams](https://research.google/pubs/pub41318/)
 * [Preserving I/O Prioritization in Virtualized OSes](https://ranger.uta.edu/~jrao/papers/SOCC17.pdf)
 * [Procella: Unifying serving and analytical data at YouTube](https://research.google/pubs/pub48388/)
 * [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf), Peter Naur
