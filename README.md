@@ -102,6 +102,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Virtual Consensus in Delos](https://www.usenix.org/system/files/osdi20-balakrishnan.pdf)
 * [What Every Computer Scientist Should Know about Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 * [What Every Programmer Should Know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google/pubs/pub45424/)
 * [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
 * [ZooKeeper's Atomic Broadcast Protocol - Theory and Practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf)
 
