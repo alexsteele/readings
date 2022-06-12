@@ -115,6 +115,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 ## books
 
 * Designing Data Intensive Applications, Martin Kleppmann
+* Distributed Systems, Andrew Tanenbaum
 * Introduction to Algorithms, Cormen, Leiserson, Rivest, and Stein
 * Linux Kernel Development, Robert Love
 * Society of Mind, Marvin Minsky
