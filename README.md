@@ -15,6 +15,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [Backpropagation Applied to Handwritten Zipcode Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf), LeCun et al.
 * [Berkeley DB](https://www.usenix.org/legacy/event/usenix99/full_papers/olson/olson.pdf)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 * [BigTable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [Can programming be liberated from the von Neumann style? A functional style and its algebra of programs](https://dl.acm.org/doi/10.1145/359576.359579)
