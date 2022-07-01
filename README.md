@@ -80,6 +80,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 * [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf)
 * [Spanner: Google's Globally Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+* [Solving Quantitative Reasoning Problems with Language Models](https://storage.googleapis.com/minerva-paper/minerva_paper.pdf)
 * [Tao: Facebook's Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 * [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 * [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf), Leslie Lamport
