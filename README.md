@@ -95,6 +95,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
 * [The Part-Time Parliament, Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 * [The Power of the Context](http://www.vpri.org/pdf/m2004001_power.pdf), Alan Kay
+* [The RAMCloud Storage System](https://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud-tocs.pdf), Ousterhout et al.
 * [The Slab Allocator, An Object-Caching Kernel Memory Allocator](https://www.usenix.org/legacy/publications/library/proceedings/bos94/bonwick.html)
 * [The Swirlds Hashgraph Consensus Algorithm](https://www.swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)
 * [The Tail at Scale](https://research.google/pubs/pub40801/)
