@@ -80,6 +80,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [RocksDB: Evolution of Development Priorities in a Key-Value Store Serving Large Applications](https://dl.acm.org/doi/10.1145/3483840)
 * [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 * [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf)
+* [Snap: a Microkernel Approach to Host Networking](https://research.google/pubs/pub48630/), Google 2019
 * [Spanner: Google's Globally Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 * [Solving Quantitative Reasoning Problems with Language Models](https://storage.googleapis.com/minerva-paper/minerva_paper.pdf)
 * [Tao: Facebook's Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
