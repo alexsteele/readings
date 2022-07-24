@@ -19,6 +19,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 * [BigTable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+* [Cache-Oblivious Algorithms and Data Structures](https://erikdemaine.org/papers/BRICS2002/paper.pdf), Erik Demaine 2002
 * [Can programming be liberated from the von Neumann style? A functional style and its algebra of programs](https://dl.acm.org/doi/10.1145/359576.359579)
 * [Can we survive technology?](https://drive.google.com/file/d/10_IKsz0GdgyLlO9-MAtpTPQ7vnfpN8Ng/view), John von Neumann
 * [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
