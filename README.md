@@ -71,6 +71,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [On Performance Stability in LSM-based Storage Systems](https://www.vldb.org/pvldb/vol13/p449-luo.pdf)
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
+* [Pathways: Asynchronous Distriuted Data Flow for ML](https://proceedings.mlsys.org/paper/2022/file/98dce83da57b0395e163467c9dae521b-Paper.pdf), Google 2022
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 * [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 * [Performance Isolation and Fairness for Multi-Tentant Cloud Storage](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-215.pdf), OSDI 2015
