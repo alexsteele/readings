@@ -56,6 +56,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [LVars: Lattice Based Data Structures for Deterministic Parallelism](https://users.soe.ucsc.edu/~lkuper/papers/lvars-fhpc13.pdf)
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 * [Live Migration of Virtual Machines](https://www.usenix.org/legacy/events/nsdi05/tech/full_papers/clark/clark.pdf)
+* [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/), Google 2014
 * [Maglev: A Fast and Reliable Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
 * [Making CRTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf), Martin Kleppmann
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
