@@ -41,6 +41,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf), Ian Goodfellow et al
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [Gradient Based Learning Applied to Document Recognition, LeCun et al](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
+* [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752), 2021
 * [Hints for Computer System Design, Butler Lampson](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 * [Hive - A Petabyte Scale Data Warehouse Using Hadoop](http://infolab.stanford.edu/~ragho/hive-icde2010.pdf)
 * [How do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf), Conway (Conway's Law paper)
