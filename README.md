@@ -69,6 +69,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Millions of Tiny Databases](https://www.usenix.org/system/files/nsdi20-paper-brooker.pdf), Marc Brooker et al from AWS 2020
 * [Monarch: Google's Planet-Scale In-Memory Time Series Database](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 * [Metastable Failures in Distributed Systems](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)
+* [NICE: Non-Linear Independent Components Estimation](https://arxiv.org/abs/1410.8516), Dinh, Krueger, Bengio 2014
 * [NinjaMail: the Design of a High-Performance Clustered, Distributed E-mail System](https://people.eecs.berkeley.edu/~kubitron/papers/ninja/pdf/ninjamail-workshop.pdf), Behren et al., UC Berkeley 2000
 * [On Computable Numbers, With an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 * [On Designing and Deploying Internet Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf), James Hamilton
