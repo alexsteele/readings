@@ -84,6 +84,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Preserving I/O Prioritization in Virtualized OSes](https://ranger.uta.edu/~jrao/papers/SOCC17.pdf)
 * [Procella: Unifying serving and analytical data at YouTube](https://research.google/pubs/pub48388/)
 * [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf), Peter Naur
+* [Profiling a warehouse-scale computer](https://research.google/pubs/pub44271/), Google 2014
 * [RAMP-Tao: Layering Atomic Transactions on Facebook's Online Tao Data Store](http://www.vldb.org/pvldb/vol14/p3014-cheng.pdf)
 * [Recursive Functions of Symbolic Expressions and Their Computation By Machine, John McCarthy](http://www-formal.stanford.edu/jmc/recursive.html) (i.e. the LISP paper)
 * [Reflections on Trusting Trust](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
