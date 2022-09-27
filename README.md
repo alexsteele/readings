@@ -100,6 +100,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [The Case for Learned Index Structures](https://arxiv.org/pdf/1712.01208.pdf)
 * [The Cathedral and the Bazaar, Eric Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html)
 * [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+* [The Datacenter as a Computer](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/google-warehouse.pdf), Luis Barroso and Urs Holzle
 * [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Oout-of-order Data Processing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
 * [The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf), Mendel Rosenblum and John K. Ousterhout
 * [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
