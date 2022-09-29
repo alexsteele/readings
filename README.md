@@ -118,6 +118,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913#)
 * [virtio: Towards a De-Facto Standard For Virtual I/O Devices](https://www.ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf)
 * [Virtual Consensus in Delos](https://www.usenix.org/system/files/osdi20-balakrishnan.pdf)
+* [Web search for a planet: the Google cluster architecture](https://static.googleusercontent.com/media/research.google.com/en//archive/googlecluster-ieee.pdf), Barosso, Dean, Holzle
 * [What Every Computer Scientist Should Know about Floating Point Arithmetic](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf)
 * [What Every Programmer Should Know about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google/pubs/pub45424/)
