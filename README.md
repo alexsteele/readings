@@ -40,6 +40,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35650.pdf)
 * [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20(Havelund).pdf) on NASA remote debugging 
 * [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf) (built on spanner)
+* [F1 Query: Declarative Querying at Scale](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/fa380016eccb33ac5e92c84f7b5eec136e73d3f1.pdf)
 * [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf), Ian Goodfellow et al
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [Gradient Based Learning Applied to Document Recognition, LeCun et al](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
