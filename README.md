@@ -11,6 +11,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [A Name-Based Mapping Scheme for Rendezvous](http://www.eecs.umich.edu/techreports/cse/96/CSE-TR-316-96.pdf)
 * [A New Solution to Dijkstra's Concurrent Programming Problem](https://lamport.azurewebsites.net/pubs/bakery.pdf), Leslie Lamport
 * [A Note on Distributed Computing](https://scholar.harvard.edu/waldo/publications/note-distributed-computing)
+* [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsfz), Yann LeCun 2022
 * [Architectural Styles and the Design of Network-based Software Architectures, Roy Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 * [Are you living in a computer simulation?](https://www.simulation-argument.com/simulation.html), Nick Bostrom
 * [Are You Sure You Want to Use MMAP in Your Database Management System?](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
