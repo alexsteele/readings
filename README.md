@@ -27,6 +27,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Can we survive technology?](https://drive.google.com/file/d/10_IKsz0GdgyLlO9-MAtpTPQ7vnfpN8Ng/view), John von Neumann
 * [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 * [Chain Replication for Supporting High Throughput and Availability](https://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf)
+* [Cloud Control with Distributed Rate Limiting](https://cseweb.ucsd.edu/~snoeren/papers/drl-sigcomm07.pdf), sigcomm 2007
 * [Colossus under the hood: a peek into google's scalable storage system](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)
 * [Communicating Sequential Processes, Tony Hoare](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
 * [Computing Machinery and Intelligence, Alan Turing](https://academic.oup.com/mind/article/LIX/236/433/986238)
