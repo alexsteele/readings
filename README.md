@@ -60,6 +60,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Is this the simplest (and most surprising) sorting algorithm ever?](https://arxiv.org/pdf/2110.01111.pdf)
 * [It's as simple as one, two, three...](https://calteches.library.caltech.edu/607/2/Feynman.pdf), Richard Feynman
 * [Kafka: a Distributed Messaging System for Log Processing](https://www.semanticscholar.org/paper/Kafka-%3A-a-Distributed-Messaging-System-for-Log-Kreps/ea97f112c165e4da1062c30812a41afca4dab628)
+* [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) aka GPT3, OpenAI 2020 
 * [Logstore: A Cloud Native and Multi-Tenant Log Database](https://www.cs.utah.edu/~lifeifei/papers/logstore-sigmod21.pdf), Alibiba SIGMOD 2021
 * [LVars: Lattice Based Data Structures for Deterministic Parallelism](https://users.soe.ucsc.edu/~lkuper/papers/lvars-fhpc13.pdf)
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
