@@ -16,7 +16,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [Architectural Styles and the Design of Network-based Software Architectures, Roy Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 * [Are you living in a computer simulation?](https://www.simulation-argument.com/simulation.html), Nick Bostrom
 * [Are You Sure You Want to Use MMAP in Your Database Management System?](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
-* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762), 2017 (transformer neural networks)
 * [Backpropagation Applied to Handwritten Zipcode Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf), LeCun et al.
 * [Berkeley DB](https://www.usenix.org/legacy/event/usenix99/full_papers/olson/olson.pdf)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
