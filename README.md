@@ -1,7 +1,12 @@
 
 # reading
 
-A collection of papers, blog posts, and books. Topics include AI/ML, systems, and foundational CS papers.
+A collection of papers, blog posts, and books I've read or skimmed. My main interests are:
+
+- Foundational or historically important computer science
+- AI/ML
+- Systems - storage, networking, operating systems, distributed systems
+- Practical programming/software engineering
 
 ## papers
 
