@@ -109,6 +109,7 @@ A collection of papers, blog posts, and books. Topics include AI/ML, systems, an
 * [The Datacenter as a Computer](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/google-warehouse.pdf), Luis Barroso and Urs Holzle
 * [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Oout-of-order Data Processing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
 * [The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf), Mendel Rosenblum and John K. Ousterhout
+* [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf), Geoffrey Hinton 2022
 * [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [The Hadoop Distributed File System](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
 * [The Linux Scheduler: A Decade of Wasted Cores](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
