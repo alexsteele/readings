@@ -57,6 +57,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Hints for Computer System Design, Butler Lampson](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 * [Hive - A Petabyte Scale Data Warehouse Using Hadoop](http://infolab.stanford.edu/~ragho/hive-icde2010.pdf)
 * [How do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf), Conway (Conway's Law paper)
+* [How to Write a Proof](https://lamport.azurewebsites.net/pubs/lamport-how-to-write.pdf), Leslie Lamport
 * [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), DeepMind
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 * [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) (RAFT)
