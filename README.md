@@ -108,6 +108,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Snap: a Microkernel Approach to Host Networking](https://research.google/pubs/pub48630/), Google 2019
 * [Spanner: Google's Globally Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 * [Solving Quantitative Reasoning Problems with Language Models](https://storage.googleapis.com/minerva-paper/minerva_paper.pdf)
+* [Swift: Delay is Simple and Effective for Congestion Control in the Datacenter](https://research.google/pubs/pub49448/)
 * [Tao: Facebook's Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 * [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 * [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf), Leslie Lamport
