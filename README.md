@@ -88,6 +88,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [On Computable Numbers, With an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 * [On Designing and Deploying Internet Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf), James Hamilton
 * [On Performance Stability in LSM-based Storage Systems](https://www.vldb.org/pvldb/vol13/p449-luo.pdf)
+* [On the Electrodynamics of Moving Bodies](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1905_relativity.pdf), Einstein special relativity 1905
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 * [Pathways: Asynchronous Distriuted Data Flow for ML](https://proceedings.mlsys.org/paper/2022/file/98dce83da57b0395e163467c9dae521b-Paper.pdf), Google 2022
