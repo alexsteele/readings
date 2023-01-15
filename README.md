@@ -12,6 +12,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 
 * [Amazon Aurora: Design Considerations for High Throughput Cloud Native Relational Databases](https://www.amazon.science/publications/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases), 2017
 * [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/conference/atc22/presentation/vig), 2022
+* [Analysis of the Increase and Decrease Algorithms for Congestion Avoidance in Computer Networks](https://www.cse.wustl.edu/~jain/papers/ftp/cong_av.pdf), 1989
 * [An Algorithm for the Machine Calculation of Complex Fourier Series](https://www.ams.org/journals/mcom/1965-19-090/S0025-5718-1965-0178586-1/S0025-5718-1965-0178586-1.pdf), James Cooley and John Tukey
 * [A Mathematical Theory of Communication, Claude Shannon](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 * [A Name-Based Mapping Scheme for Rendezvous](http://www.eecs.umich.edu/techreports/cse/96/CSE-TR-316-96.pdf)
