@@ -148,6 +148,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [The Bug in Paxos Made Simple](https://brooker.co.za/blog/2021/11/16/paxos.html), Marc Brooker
 * [Developers spend most of their time figuring out the system](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), Jay Alammar
+* [Google Research, 2022 & Beyond: Language, Vision and Generative Models](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html), Jeff Dean et al
 
 ## books
 
