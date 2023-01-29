@@ -35,6 +35,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 * [Cicero - Human-level play in the game Diplomacy](https://www.science.org/doi/10.1126/science.ade9097?fbclid=IwAR1FIPgvocXlzvV84pHjWujwrD8IPA5wndhxQQnEIs2qMi9Se28Qt3ChZMA)
 * [Chain Replication for Supporting High Throughput and Availability](https://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf)
+* [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
 * [Cloud Control with Distributed Rate Limiting](https://cseweb.ucsd.edu/~snoeren/papers/drl-sigcomm07.pdf), sigcomm 2007
 * [Colossus under the hood: a peek into google's scalable storage system](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)
 * [Communicating Sequential Processes, Tony Hoare](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
