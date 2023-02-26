@@ -134,6 +134,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [The Swirlds Hashgraph Consensus Algorithm](https://www.swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)
 * [The Tail at Scale](https://research.google/pubs/pub40801/)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+* [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 * [Top 10 Algorithms in Data Mining](https://www.researchgate.net/publication/29467751_Top_10_algorithms_in_data_mining)
 * [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913#)
 * [virtio: Towards a De-Facto Standard For Virtual I/O Devices](https://www.ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf)
