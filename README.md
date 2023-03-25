@@ -111,6 +111,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf)
 * [Snap: a Microkernel Approach to Host Networking](https://research.google/pubs/pub48630/), Google 2019
 * [Spanner: Google's Globally Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+* [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712), Microsoft Research 2023
 * [Solving Quantitative Reasoning Problems with Language Models](https://storage.googleapis.com/minerva-paper/minerva_paper.pdf)
 * [Swift: Delay is Simple and Effective for Congestion Control in the Datacenter](https://research.google/pubs/pub49448/)
 * [Tao: Facebook's Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
