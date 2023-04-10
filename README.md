@@ -54,6 +54,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf) (built on spanner)
 * [F1 Query: Declarative Querying at Scale](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/fa380016eccb33ac5e92c84f7b5eec136e73d3f1.pdf)
 * [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf), Ian Goodfellow et al
+* [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [Gradient Based Learning Applied to Document Recognition, LeCun et al](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 * [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752), 2021
