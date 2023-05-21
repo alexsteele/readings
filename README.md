@@ -1,5 +1,5 @@
 
-# reading
+# readings
 
 A collection of papers, blog posts, and books I've read or skimmed. My main interests are:
 
@@ -47,6 +47,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 * [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [Efficient Estimations of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+* [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732), 2020
 * [Engineering a Sort Function](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.8162&rep=rep1&type=pdf), Bentley & McIlroy at Bell Labs
 * [Experiments on Learning by Back Propagation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.878&rep=rep1&type=pdf), Plaut, Nowlan, Hinton
 * [FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35650.pdf)
