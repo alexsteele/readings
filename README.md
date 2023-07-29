@@ -93,6 +93,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [On Computable Numbers, With an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 * [On Designing and Deploying Internet Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf), James Hamilton
 * [On Performance Stability in LSM-based Storage Systems](https://www.vldb.org/pvldb/vol13/p449-luo.pdf)
+* [On a Heuristic Point of View Concerning the Production and Transformation of Light External](https://einsteinpapers.press.princeton.edu/vol2-trans/100), Einstein photoelectric effect
 * [On the Electrodynamics of Moving Bodies](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1905_relativity.pdf), Einstein special relativity 1905
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
