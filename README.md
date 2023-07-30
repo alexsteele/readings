@@ -43,6 +43,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](https://www.cs.princeton.edu/courses/archive/fall09/cos518/papers/chash.pdf)
 * [Convolutional Networks for Images, Speech, and Time-Series, Yan LeCun, Yoshua Bengio](http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf)
 * [Dapper, a Large-Scale Distributed Tracing Infrastructure](https://research.google/pubs/pub36356/)
+* [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/abs/1906.00091), Facebook 2019
 * [Distributed Representations](http://stanford.edu/~jlmcc/papers/PDP/Chapter3.pdf), Geoffrey Hinton et al.
 * [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 * [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
