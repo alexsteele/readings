@@ -39,6 +39,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
 * [Characteristics of multithreading models for high performance IO-driven network applications](https://arxiv.org/pdf/0909.4934.pdf)
 * [Cloud Control with Distributed Rate Limiting](https://cseweb.ucsd.edu/~snoeren/papers/drl-sigcomm07.pdf), sigcomm 2007
+* [CliqueMap: Productionizing an RMA based distributed caching system](https://research.google/pubs/cliquemap-productionizing-an-rma-based-distributed-caching-system), Google 2021
 * [Colossus under the hood: a peek into google's scalable storage system](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)
 * [Communicating Sequential Processes, Tony Hoare](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
 * [Computing Machinery and Intelligence, Alan Turing](https://academic.oup.com/mind/article/LIX/236/433/986238)
