@@ -86,6 +86,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Making CRTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf), Martin Kleppmann
 * [Making reliable distributed systems in the presennce of software errors](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A9492&dswid=-8719), Joe Armstrong Erlang Thesis
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+* [MapReduce: A major step backwards](https://www.cs.utexas.edu/~rossbach/cs378/papers/dewitt08blog-mapreduce-backwards.pdf), Dewitt & Stonebreaker, 2011
 * [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ), Deepmind (AlphaGo Zero)
 * [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf), Google
 * [Mercator: A Scalable, Extensible Web Crawler](https://courses.cs.washington.edu/courses/cse454/15wi/papers/mercator.pdf)
