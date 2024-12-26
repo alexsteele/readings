@@ -55,7 +55,8 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Engineering a Sort Function](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.8162&rep=rep1&type=pdf), Bentley & McIlroy at Bell Labs
 * [Experiments on Learning by Back Propagation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.878&rep=rep1&type=pdf), Plaut, Nowlan, Hinton
 * [FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35650.pdf)
-* [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20(Havelund).pdf) on NASA remote debugging 
+* [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20(Havelund).pdf) on NASA remote debugging
+* [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238), Deepmind 2022
 * [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf) (built on spanner)
 * [F1 Query: Declarative Querying at Scale](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/fa380016eccb33ac5e92c84f7b5eec136e73d3f1.pdf)
 * [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf), Ian Goodfellow et al
