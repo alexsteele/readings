@@ -50,6 +50,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/abs/1906.00091), Facebook 2019
 * [Distributed Representations](http://stanford.edu/~jlmcc/papers/PDP/Chapter3.pdf), Geoffrey Hinton et al.
 * [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531), Dean, Hinton, Vinyals 2015
 * [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [Efficient Estimations of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 * [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732), 2020
