@@ -10,6 +10,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 
 ## papers
 
+* [Adaptive Optimization of Very Large Join Queries](https://db.in.tum.de/~radke/papers/hugejoins.pdf)
 * [Amazon Aurora: Design Considerations for High Throughput Cloud Native Relational Databases](https://www.amazon.science/publications/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases), 2017
 * [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/conference/atc22/presentation/vig), 2022
 * [Analysis of the Increase and Decrease Algorithms for Congestion Avoidance in Computer Networks](https://www.cse.wustl.edu/~jain/papers/ftp/cong_av.pdf), 1989
