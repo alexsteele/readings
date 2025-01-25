@@ -48,6 +48,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Convolutional Networks for Images, Speech, and Time-Series, Yan LeCun, Yoshua Bengio](http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf)
 * [Dapper, a Large-Scale Distributed Tracing Infrastructure](https://research.google/pubs/pub36356/)
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/abs/1906.00091), Facebook 2019
+* [Deepseek R1](https://arxiv.org/abs/2501.12948), Deepseek 2025
 * [Distributed Representations](http://stanford.edu/~jlmcc/papers/PDP/Chapter3.pdf), Geoffrey Hinton et al.
 * [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531), Dean, Hinton, Vinyals 2015
