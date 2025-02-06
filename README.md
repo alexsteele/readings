@@ -114,6 +114,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Performance Isolation and Fairness for Multi-Tentant Cloud Storage](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-215.pdf), OSDI 2015
 * [Photon: Fault-tolerant and Scalable Joining of Continuous Data Streams](https://research.google/pubs/pub41318/)
 * [Preserving I/O Prioritization in Virtualized OSes](https://ranger.uta.edu/~jrao/papers/SOCC17.pdf)
+* [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf), Meta 2024
 * [Procella: Unifying serving and analytical data at YouTube](https://research.google/pubs/pub48388/)
 * [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf), Peter Naur
 * [Profiling a warehouse-scale computer](https://research.google/pubs/pub44271/), Google 2014
