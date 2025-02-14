@@ -84,6 +84,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) aka GPT3, OpenAI 2020 
 * [Logstore: A Cloud Native and Multi-Tenant Log Database](https://www.cs.utah.edu/~lifeifei/papers/logstore-sigmod21.pdf), Alibiba SIGMOD 2021
 * [LVars: Lattice Based Data Structures for Deterministic Parallelism](https://users.soe.ucsc.edu/~lkuper/papers/lvars-fhpc13.pdf)
+* [Large Language Models are Zero-Shot Reasoners](Large Language Models are Zero-Shot Reasoners),  2022
 * [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 * [Live Migration of Virtual Machines](https://www.usenix.org/legacy/events/nsdi05/tech/full_papers/clark/clark.pdf)
 * [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/), Google 2014
