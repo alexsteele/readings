@@ -154,6 +154,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 * [Top 10 Algorithms in Data Mining](https://www.researchgate.net/publication/29467751_Top_10_algorithms_in_data_mining)
 * [TopoNets: High Performing Vision and Language Models with Brain-Like Topology](https://arxiv.org/abs/2501.16396), Georgia Tech, 2025
+* [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769), Meta FAIR 2025
 * [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913#)
 * [virtio: Towards a De-Facto Standard For Virtual I/O Devices](https://www.ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf)
 * [Virtual Consensus in Delos](https://www.usenix.org/system/files/osdi20-balakrishnan.pdf)
