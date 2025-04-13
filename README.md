@@ -107,6 +107,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [On Performance Stability in LSM-based Storage Systems](https://www.vldb.org/pvldb/vol13/p449-luo.pdf)
 * [On a Heuristic Point of View Concerning the Production and Transformation of Light External](https://einsteinpapers.press.princeton.edu/vol2-trans/100), Einstein photoelectric effect
 * [On the Electrodynamics of Moving Bodies](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1905_relativity.pdf), Einstein special relativity 1905
+* [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html), Anthropic 2025
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 * [Outrageously Large Neural Networks: The Sparsely-Gated Mixture of Experts Layer](https://arxiv.org/pdf/1701.06538.pdf%22%20%5Ct%20%22_blank), Noam Shazeer et al 2017
