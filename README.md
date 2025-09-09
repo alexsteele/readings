@@ -127,6 +127,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [Reflections on Trusting Trust](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [RocksDB: Evolution of Development Priorities in a Key-Value Store Serving Large Applications](https://dl.acm.org/doi/10.1145/3483840)
 * [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+* [Scaling GPU accelerated databases beyond GPU memory size](https://www.vldb.org/pvldb/vol18/p4518-li.pdf), VLDB 2025
 * [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf)
 * [Snap: a Microkernel Approach to Host Networking](https://research.google/pubs/pub48630/), Google 2019
 * [Spanner: Google's Globally Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
