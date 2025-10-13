@@ -111,6 +111,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html), Anthropic 2025
 * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf?ref=https://githubhelp.com), Francois Chollet
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
+* [On the Theoretical Limitations of Embedding Based Retrieval](https://arxiv.org/abs/2508.21038) Google 2025
 * [Outrageously Large Neural Networks: The Sparsely-Gated Mixture of Experts Layer](https://arxiv.org/pdf/1701.06538.pdf%22%20%5Ct%20%22_blank), Noam Shazeer et al 2017
 * [Pathways: Asynchronous Distriuted Data Flow for ML](https://proceedings.mlsys.org/paper/2022/file/98dce83da57b0395e163467c9dae521b-Paper.pdf), Google 2022
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
