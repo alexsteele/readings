@@ -1,12 +1,13 @@
 
 # readings
 
-A collection of papers, blog posts, and books I've read or skimmed. My main interests are:
+Papers, books, and blog posts. Focus:
 
-- Foundational or historically important computer science
+- Foundational
+- Industry shaping
 - AI/ML
-- Systems - storage, networking, operating systems, distributed systems
-- Practical programming/software engineering
+- Systems
+- Practical programming
 
 ## papers
 
