@@ -162,6 +162,7 @@ A collection of papers, blog posts, and books I've read or skimmed. My main inte
 * [TopoNets: High Performing Vision and Language Models with Brain-Like Topology](https://arxiv.org/abs/2501.16396), Georgia Tech, 2025
 * [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769), Meta FAIR 2025
 * [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913#)
+* [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601) 2023
 * [virtio: Towards a De-Facto Standard For Virtual I/O Devices](https://www.ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf)
 * [Virtual Consensus in Delos](https://www.usenix.org/system/files/osdi20-balakrishnan.pdf)
 * [Web search for a planet: the Google cluster architecture](https://static.googleusercontent.com/media/research.google.com/en//archive/googlecluster-ieee.pdf), Barosso, Dean, Holzle
