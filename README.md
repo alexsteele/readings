@@ -84,6 +84,7 @@ Papers, books, and blog posts. Focus:
 * [It's as simple as one, two, three...](https://calteches.library.caltech.edu/607/2/Feynman.pdf), Richard Feynman
 * [John Carmack's 1998 .plan file](https://fabiensanglard.net/fd_proxy/doom3/pdfs/johnc-plan_1998.pdf)
 * [Kafka: a Distributed Messaging System for Log Processing](https://www.semanticscholar.org/paper/Kafka-%3A-a-Distributed-Messaging-System-for-Log-Kreps/ea97f112c165e4da1062c30812a41afca4dab628)
+* [Keeping CALM: When Distributed Consistency is Easy](https://arxiv.org/abs/1901.01930), Hellerstein & Alvaro 2019
 * [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 * [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) aka GPT3, OpenAI 2020
 * [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture From Pixels](https://arxiv.org/abs/2603.19312), 2026
